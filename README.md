@@ -3,7 +3,7 @@
 <h3 align="center">Developer & Programmer</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir12-a&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir12-a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrar-a1-a&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar-a1" /> </p>
 🌱 I’m currently learning JAVA & React<br>
 👨‍💻 All of my projects are available on GitHub: Abrar-a1 <br>
 💬 Ask me about HTML, CSS, JS, C, Python, React, JAVA<br>
