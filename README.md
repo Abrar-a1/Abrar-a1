@@ -4,7 +4,7 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrar-a1-a&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar-a1" /> </p>
-🌱 I’m currently learning JAVA & React<br>
+🌱 I'm currently learning JAVA & React<br>
 👨‍💻 All of my projects are available on GitHub: Abrar-a1 <br>
 💬 Ask me about HTML, CSS, JS, C, Python, React, JAVA<br>
 📫 Get in touch: abrarahmad1915@gmail.com <br>
@@ -12,7 +12,7 @@
 <hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a&theme=onestar" alt="Abrar-a1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abrar-a1&theme=onestar" alt="Abrar-a1" />
   </a>
 </p>
 <hr>
@@ -34,13 +34,7 @@
   &ensp;
 </p>
 
-
-
-
-
-
 <hr>
-
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -68,9 +62,7 @@
   ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
 
-  
 <hr>
-
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=|&message=0_._.mubashir._._0&color=ff&style=plastic&logo=instagram&logo-color=white"/>
@@ -79,24 +71,22 @@
 <img src="https://img.shields.io/static/v1?label=|&message=Mubashir Ahmad&color=24555f&style=plastic&logo=facebook&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=ma2625645@gmail.com&color=24555f&style=plastic&logo=gmail&logo-color=white"/>
 </p>
-  
-
 
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir12-a&hide=less&title_color=d13979&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-a1&hide=less&title_color=d13979&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&langs_count=5" />
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashir12-a&theme=neon&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrar-a1&theme=neon&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
 </p>
 <hr>
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=mubashir12-a&theme=dark&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abrar-a1&theme=dark&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir12-a&theme=radical&hide_border=true" alt="GitHub status" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrar-a1&theme=radical&hide_border=true" alt="GitHub status" />
 </p>
 <hr>
 <p align="center">
