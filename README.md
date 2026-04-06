@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋, I'm Mubashir Ahmad</h1>
+<h1 align="center">Hello 👋, I'm Abrar Ahmad</h1>
 <h2 align="center">Learner</h2>
 <h3 align="center">Developer & Programmer</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir12-a&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir12-a" /> </p>
 🌱 I’m currently learning JAVA & React<br>
-👨‍💻 All of my projects are available on GitHub: Mubashir12-a <br>
+👨‍💻 All of my projects are available on GitHub: Abrar-a1 <br>
 💬 Ask me about HTML, CSS, JS, C, Python, React, JAVA<br>
-📫 Get in touch: ma2625645@gmail.com <br>
+📫 Get in touch: abrarahmad1915@gmail.com <br>
 <hr><hr><hr><hr><hr><hr><br>
 <hr>
 <p align="center">
@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   &nbsp;
-  <a href="https://www.linkedin.com/in/mubashir-ahmad-867b712a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank" style="text-decoration: none; margin-right: 20px;">
+  <a href="utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &ensp;
@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &ensp;
-  <a href="https://instagram.com/0_._.mubashir._._0" target="blank" style="text-decoration: none;">
+  <a href= target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   &ensp;
