@@ -12,7 +12,7 @@
 <hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a&theme=onestar" alt="mubashir12-a" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a&theme=onestar" alt="Abrar-a1" />
   </a>
 </p>
 <hr>
